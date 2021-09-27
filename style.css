@@ -35,7 +35,8 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
-    
+}    
+
 .logo {
     padding: 40px 0;
 }
