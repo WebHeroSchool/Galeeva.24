@@ -50,7 +50,10 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
-}    
+}  
+.logo {
+    padding: 40px 0 40px 0;
+}
 .logo {
     padding: 40px 0;
 }
