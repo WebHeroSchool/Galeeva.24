@@ -5,11 +5,17 @@ p {
 
 body {
     border: dashed 1px red;
-}
+} 
 .menu__item {
     border: dashed 1px red;
 }
 .header, .main-section {
+    border: dashed 1px red;
+}
+body {
+    border: dashed 1px red;
+}
+.header {
     border: dashed 1px red;
 }
 body {
