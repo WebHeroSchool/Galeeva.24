@@ -1,21 +1,21 @@
+body {
+    margin: 0;
+}
+
 p {
  color: green;
  font-family:Roboto;
 }
 
-body {
-    margin: 0;
-}
-
- .menu__item {
-     border: dashed 1px red;
-}
-  
 .header {
     margin: auto;
     width: 80%;
 }
 
+.menu__item {
+     border: dashed 1px red;
+}
+  
 .main-section {
     margin: auto;
     width: 80%;
@@ -31,15 +31,9 @@ body {
     display: inline-block;
     border: dashed 1px red;
 }
-
-<header class="header">
-    </header><!--
-    --><section class="main-section">
-    </section>
-
-    .logo {
-        margin-right: 63%;
-        padding: 40px 0;
+.logo {
+    margin-right: 63%;
+    padding: 40px 0;
 }
        
 .header {
