@@ -3,23 +3,17 @@ p {
  font-family:Roboto;
 }
 
-.menu__item {
-    border: dashed 1px red;
-    padding: 0 13px;
-}
-
 body {
-   margin: 0;
-   border: dashed 1px red;
+    margin: 0;
 }
 
-*{
+ .menu__item {
+     border: dashed 1px red;
+}
+  
+.header {
     margin: auto;
     width: 80%;
-    border: dashed 1px red;
-    display: flex;
-    justify-content: space-between;
-     
 }
 
 .main-section {
@@ -27,22 +21,46 @@ body {
     width: 80%;
     border: dashed 1px red;
 }
-
 .wrapper {
-    margin: auto;
-    width: 80%;
-    border: dashed 1px red;
+   margin: auto;
+   width: 80%;
+   border: dashed 1px red;
 }
 
 .logo, .menu {
     display: inline-block;
     border: dashed 1px red;
-    margin-right: 63%;
-    padding: 40px 0 40px 0;
+}
+
+<header class="header">
+    </header><!--
+    --><section class="main-section">
+    </section>
+
+    .logo {
+        margin-right: 63%;
+        padding: 40px 0;
+}
+       
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu {
     display: flex;
     align-items: center;
+}
+
+.menu__item {
+    padding: 0 13px;
+    border: dashed 1px red;
 }
 
 .menu__item:last-child {
     padding-right: 0;
 }
+   
+   
+       
+   
