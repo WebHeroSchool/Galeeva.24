@@ -10,6 +10,8 @@ p {
 .header {
     margin:auto;
     width: 80%;
+    display:flex;
+    justify-content:space-between;
 }
 
 .menu__item {
@@ -34,15 +36,9 @@ p {
 }
 
 .logo {
-    margin-right: 63%;
     padding: 40px 0;
 }
        
-.header {
-    display:flex;
-    justify-content:space-between;
-}
-
 .menu {
     display:flex;
     align-items:center;
