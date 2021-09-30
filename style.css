@@ -65,10 +65,3 @@ p {
     background: red;
     background: url('img/logo.svg');
 }
-   
-.header {
-  padding: 40px 0;
-  display: flex;
-  justify-content: space-between;
-}
- 
