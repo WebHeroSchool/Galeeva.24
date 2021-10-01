@@ -59,6 +59,7 @@ p {
   
 .logo {
     position: relative;
+    left:16px ;
     padding:40px 0;
     font: bold 24px/31px pt_serifbold, arial, helvetica, sans-serif;
 }
