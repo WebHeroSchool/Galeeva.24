@@ -66,10 +66,11 @@ p {
     width: 28px;
     height: 28px;
     border: dashed 1px red;
-    left: 0; top: 0;
+    left:50px ; top: 50% ;
     position: relative;
     position: absolute
     transform: translateY(-50%);
+    border-radius: 50%;
 }
 
 .logo__circle_color_blue {
