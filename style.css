@@ -66,7 +66,7 @@ p {
     width: 28px;
     height: 28px;
     border: dashed 1px red;
-    left:50px ; top: 50% ;
+    left:44px ; top: 50% ;
     position: relative;
     transform: translateY(-50%);
     border-radius: 50%;
