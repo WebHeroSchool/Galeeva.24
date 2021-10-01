@@ -58,6 +58,7 @@ p {
 }
   
 .logo {
+    position: relative;
     padding: 40px 0;
     font: bold 24px/31px pt_serifbold, arial, helvetica, sans-serif;
 }
@@ -67,7 +68,7 @@ p {
     height: 28px;
     border: dashed 1px red;
     left:0px ; top: 50% ;
-.logo, position: relative;
+position: relative;
     transform: translateY(-50%);
     border-radius: 50%;
 }
