@@ -65,8 +65,8 @@ p {
 .logo__circle {
     width: 28px;
     height: 28px;
-    border: dashed 1px red;
-    left:44px ; top: 50% ;
+    border: dashed 16px red;
+    left:28px ; top: 50% ;
     position: relative;
     transform: translateY(-50%);
     border-radius: 50%;
