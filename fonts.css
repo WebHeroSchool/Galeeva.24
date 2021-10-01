@@ -5,10 +5,3 @@
   font-style: normal;
 }
 
-@font-face {
-  font-family: 'Roboto';
-  src: url('Roboto.woff2') format('woff2'),
-       url('Roboto.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
