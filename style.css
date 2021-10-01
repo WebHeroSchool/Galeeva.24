@@ -46,7 +46,7 @@ p {
 }
 
 .menu__item:last-child {
-    padding-right:0;
+    margin-right: 0;
 }
   
 .main-content__title {
