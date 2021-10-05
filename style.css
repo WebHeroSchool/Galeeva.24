@@ -1,6 +1,10 @@
 body {
     margin:0;
 }
+.wrapper {
+    margin: auto;
+    width:80% ;
+}
 
  .header {
     display:flex;
@@ -88,13 +92,8 @@ body {
    width: 100%;
 }
 
-.main-section {
-    margin:auto;
-    width: 80%;
-}
-
 .main {
-    padding:0 63% 100px 0 ;
+    padding:0 63% 500px 0 ;
     background: top right no-repeat url(img/mainImg.svg);
     background-size: 50%;
 }
