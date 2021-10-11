@@ -139,5 +139,6 @@ p {
     height: 28px;
     left:0px ; top:0%;
     background-image:url(images/tojki.svg);
+    background: #ECF3FF;
     border-radius: 50%;
 }
