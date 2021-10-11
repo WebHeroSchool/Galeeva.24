@@ -135,10 +135,11 @@ p {
 }
 
 .slider__circle{
-    width: 28px;
-    height: 28px;
-    left:0px ; top:0%;
-    background-image:url(images/tojki.svg);
+    position: absolute;
+    padding: 40px 0;
+    width: 32px;
+    height: 8px;
+    background:url(images/tojki.svg);
     background: #C8DBFB;
     border-radius: 50%;
 }
