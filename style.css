@@ -134,8 +134,8 @@ p {
  font-family:'pt_serifbold';
 }
 
-.usemap{
+.slider__circle{
     padding:0 63% 500px 0 ;
-    background: top right no-repeat url(images//tojki.svg);
+    background: top right no-repeat url(images/tojki.svg);
     background-size: 50%;
 }
