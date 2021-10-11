@@ -134,10 +134,8 @@ p {
  font-family:'pt_serifbold';
 }
 
-.usemap {
-    position: absolute;
-    left: 8px;
-    top: 56%;
-    opacity: 0.7;
-    background: #C8DBFB;
+.usemap{
+    padding:0 63% 500px 0 ;
+    background: top right no-repeat url(images//tojki.svg);
+    background-size: 50%;
 }
