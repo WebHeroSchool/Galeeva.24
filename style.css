@@ -135,10 +135,18 @@ p {
 }
 
 .slider__circle{
+    display: flex;
     width: 28px;
     height: 8px;
     left:0px ; top:0%;
     transform: translateY(-50%);
-    border-radius: 50%;
-    background: #0056EC;
+}
+
+span{
+   position: absolute;
+   width: 8px;
+   height: 8px;
+   border-radius: 50%;
+   background: #C8DBFB ;
+   opacity: 0.7;
 }
