@@ -134,6 +134,8 @@ p {
  font-family:'pt_serifbold';
 }
 
-.img{
-    background: top right no-repeat url(img/tojki.svg);
+.images{
+    position: relative;
+    margin-right: 26px;
+    padding: 14px 16px;
 }
