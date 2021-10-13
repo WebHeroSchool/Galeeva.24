@@ -138,10 +138,9 @@ p {
     display: flex;
     width: 28px;
     height: 8px;
-    transform: translateY(-50%);
 }
 
-span{
+#span{
    position: absolute;
    width: 8px;
    height: 8px;
