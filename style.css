@@ -134,8 +134,10 @@ p {
  font-family:'pt_serifbold';
 }
 
-.images{
-    position: relative;
-    margin-right: 26px;
-    padding: 14px 16px;
+.slider__circle{
+    width: 28px;
+    height: 8px;
+    left:0px ; top:0%;
+    transform: translateY(-50%);
+    border-radius: 50%;
 }
