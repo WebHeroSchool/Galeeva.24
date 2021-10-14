@@ -93,9 +93,9 @@ body {
 }
 
 .main {
-    padding:0 63% 400px 0 ;
-    background: top right no-repeat url(img/mainImg.svg);
-    background-size: 50%;
+    padding:74% 0 0 ;
+    background:top right no-repeat  url(img/mainImg.svg);
+    background-size: 74%;
 }
 
 .main__title {
@@ -136,7 +136,7 @@ p {
 
 .slider__circle{
     display: flex;
-    width: 32px;
+    justify-content: center;
     height: 8px;
 }
 
