@@ -7,9 +7,10 @@ body {
 }
 
  .header {
+    padding-top: 40px;
+    margin-bottom: 100px;
     display:flex;
     justify-content:space-between;
-    margin-bottom: 100px;
 }
 
 .logo {
@@ -101,7 +102,8 @@ body {
 }
 
 .main__title {
-    padding-top: 20%;
+    padding-top: 13%;
+    padding-left: 5px;
     font: bold 66px/87.45px pt_serifbold, arial, helvetica, sans-serif;
 }
 
@@ -111,17 +113,18 @@ body {
    
 
 .main__subtitle {
-    margin: 0 0 41px 0;
-    font: 18px/21px Roboto, arial, helvetica, sans-serif;
+    margin-left: 6px;
+    margin-right: 100px;
+    font: 22px/26px Roboto, arial, helvetica, sans-serif;
 
 }
 
 .main__button {
     display: inline-block;
-    font: 14px/16px Roboto, arial, helvetica, sans-serif;
+    font:500 18px/21px Roboto, arial, helvetica, sans-serif;
     color: #fff;
     background: #0056EC;
-    padding: 14px 16px;
+    padding: 18px 32px;
     text-decoration: none;
     border-radius: 4px;
     transition: opacity .5s;
@@ -137,15 +140,19 @@ p {
 }
 
 .slider__circle{
+    position: absolute;
     display: flex;
     justify-content: center;
+    width: 32px;
     height: 8px;
+    left: 944px;
+    top: 1032;
 }
 
 .slider__circle span{
    width: 8px;
    height: 8px;
-   left: 500px;
+   left: 968px;
    top:100%;
    margin-right: 5px;
    border-radius: 50%;
