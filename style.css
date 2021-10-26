@@ -101,9 +101,9 @@ body {
 }
 
 .main__title {
-    padding-top: 13%;
-    padding-left: 5px;
-    font: bold 66px/87.45px pt_serifbold, arial, helvetica, sans-serif;
+    padding: 13% 5px;
+    margin-bottom: 31px;
+    font: bold 66px/88px pt_serifbold, arial, helvetica, sans-serif;
 }
 
 .main__title-text_highlight {
@@ -112,8 +112,7 @@ body {
    
 
 .main__subtitle {
-    margin-left: 6px;
-    margin-right: 100px;
+    margin: 6px 100px 38px 35px;
     font: 22px/26px Roboto, arial, helvetica, sans-serif;
 
 }
@@ -123,7 +122,7 @@ body {
     font:500 18px/21px Roboto, arial, helvetica, sans-serif;
     color: #fff;
     background: #0056EC;
-    padding: 18px 32px;
+    padding: 27px 36px 17px 21px;
     text-decoration: none;
     border-radius: 4px;
     transition: opacity .5s;
@@ -145,7 +144,7 @@ p {
     width: 32px;
     height: 8px;
     left: 944px;
-    top: 1032;
+    top: 1030px;
 }
 
 .slider__circle span{
