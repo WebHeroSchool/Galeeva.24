@@ -122,7 +122,7 @@ body {
     font:500 18px/21px Roboto, arial, helvetica, sans-serif;
     color: #fff;
     background: #0056EC;
-    padding: 20px 41px 15px 22px;
+    padding: 20px 41px 15px 2px;
     text-decoration: none;
     border-radius: 4px;
     transition: opacity .5s;
@@ -133,7 +133,7 @@ body {
 }
    
 p {
- color: green;
+ color: #fff;
  font-family:'pt_serifbold';
 }
 
